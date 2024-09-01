@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inchyda.github.io/sitemap.html.gz
+Sitemap: https://inchyda.github.io/app/sitemap.html.gz
+Sitemap: https://inchyda.github.io/assets/sitemap.html.gz
+Sitemap: https://inchyda.github.io/css/sitemap.html.gz
+Sitemap: https://inchyda.github.io/includes/sitemap.html.gz
+Sitemap: https://inchyda.github.io/item/sitemap.html.gz
+Sitemap: https://inchyda.github.io/src/sitemap.html.gz
